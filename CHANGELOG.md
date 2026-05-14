@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.29.1](https://github.com/dograh-hq/dograh/compare/dograh-v1.29.0...dograh-v1.29.1) (2026-05-14)
+
+
+### Documentation
+
+* add telnyx to telephony providers supporting call transfer ([4ff1f57](https://github.com/dograh-hq/dograh/commit/4ff1f576f0a5e079466318d6e99d27eada6abc9e))
+* update README.md ([ea13492](https://github.com/dograh-hq/dograh/commit/ea13492a894af11410c7c54500f4bdc6fa0c2cda))
+
 ## [1.29.0](https://github.com/dograh-hq/dograh/compare/dograh-v1.28.0...dograh-v1.29.0) (2026-05-13)
 
 
